@@ -1,5 +1,5 @@
 # sshd_config_password_authentication
-Allow to change from any security method to ssh password authentication
+Allow to change from any security method to ssh password authentication (root login available)
 
 
 ## Commands : <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=powershell&label=Shell&message=Bash%20Script&color=lightgray">
